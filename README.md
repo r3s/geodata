@@ -39,3 +39,4 @@ The basic format is
 ```
 
 The data was accumulated using the free [Geonames](http://geonames.org) API.
+I don't know if the data has any errors, please let me know if someone finds anything.
